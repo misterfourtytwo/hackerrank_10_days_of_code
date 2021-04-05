@@ -1,0 +1,1 @@
+i just counted by hand, i.e. at first, we have 13/52 chance to pick fixed suit, then we will have 12/51 chance of drawing it again, and this will be the answer. In editorial, they just counted all needed permutation counts.
